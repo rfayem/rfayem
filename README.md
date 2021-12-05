@@ -7,7 +7,7 @@ I started building one on my laptop, though I have not yet finished it, after I 
 The remaining parts of that social network are: [1] friends list and friends request page, [2] gallery navigation and image download sections, [3] groups, [4] pages, [5] collaborate, [6] Ads, [7] marketplace, [8] Employment application sections for employers and job seekers, [9] messenger app, and [10] our social network on Android. 
 If you are a smart developer and would like to partner with me in building that social network, you are very welcome to contact me and we would finish it together. 
 Once we build it, it would be together that we would share all the wealth and advantages that it would create us all in this world.
-- 📫 I can be reached at roufaye@hotmail.com and I can be called at +(227) 98 39 37 89. Although I studied academically in the United States for eleven (11) years, 
+- 📫 I can be reached at roufaye@hotmail.com and I can be called at +(227) 98 39 37 89. Although I studied academically in the United States for eight (8) years, 
 I am in Niger presently; where I currently work for my father as financial analyst beyond being software developer. 
 I also about to complete my Doctorate (PhD) of Finance at Atlantic International University (AIU) within the coming months.
 I look forward to hearing from you.
