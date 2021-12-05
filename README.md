@@ -11,7 +11,7 @@ Once we build it, it would be together that we would share all the wealth and ad
 I am in Niger presently; where I currently work for my father as financial analyst beyond being software developer. 
 I also about to complete my Doctorate (PhD) of Finance at Atlantic International University (AIU) within the coming months.
 I look forward to hearing from you.
-Sincerely,
+Sincerely yours,
 Amadou Roufaye.
 
 <!---
